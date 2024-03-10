@@ -1,0 +1,6 @@
+/.vscode
+/.vs
+/.fleet
+/.idea
+
+__pycache__
