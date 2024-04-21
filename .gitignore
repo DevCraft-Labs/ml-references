@@ -2,5 +2,6 @@
 /.vs
 /.fleet
 /.idea
+/simple-cnn/credit_card_clients.csv
 
 __pycache__

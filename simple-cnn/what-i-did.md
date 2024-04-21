@@ -1,0 +1,1 @@
+- Change Adam to SGD since Adam error this:
